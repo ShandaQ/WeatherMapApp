@@ -34,4 +34,5 @@ h2 {
 #sidebarIcon {
   width: 35px;
   height: 35px;
+  vertical-align: middle;
 }
