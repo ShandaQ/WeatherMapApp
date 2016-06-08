@@ -55,6 +55,7 @@ app.controller('MapController', function($scope, $http) {
       var marker = new google.maps.Marker({
         position: position,
         title: result.name,
+        animation: google.maps.Animation.DROP,
         map: map,
         // icon: image
         icon: {
