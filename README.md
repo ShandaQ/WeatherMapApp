@@ -1,2 +1,2 @@
 Weather Map App
-# WeatherMapApp
+ - WeatherMapApp using AngularJs, Google Maps API and AJax
