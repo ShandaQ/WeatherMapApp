@@ -9,3 +9,6 @@ Screen Shots
 Home Page
 ![alt tag](https://raw.githubusercontent.com/ShandaQ/WeatherMapApp/master/IMG_1763.JPG)
 
+Infor Window
+![alt tag](https://github.com/ShandaQ/WeatherMapApp/blob/master/IMG_1764.JPG)
+
