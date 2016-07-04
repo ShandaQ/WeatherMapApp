@@ -5,7 +5,7 @@ Weather Map App
  - there is also a sidebar that list all the cites in my array, and its shows the weather marker icon, city name and and current temp. 
 
 Link to site:
-[Weather Map](weatherMapAppSQK.surge.sh)
+[Weather Map](sqk-weatherMap.surge.sh)
 
 Screen Shots
 
