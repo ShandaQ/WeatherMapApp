@@ -12,3 +12,5 @@ Home Page
 Infor Window
 ![alt tag](https://github.com/ShandaQ/WeatherMapApp/blob/master/IMG_1764.JPG)
 
+More Infor 
+![alt tag](https://github.com/ShandaQ/WeatherMapApp/blob/master/IMG_1765.JPG)
