@@ -4,6 +4,9 @@ Weather Map App
  - if you click on the weather marker icon, you will get an info. window with more information for that city current weatehr
  - there is also a sidebar that list all the cites in my array, and its shows the weather marker icon, city name and and current temp. 
 
+Link to site:
+[Weather Map](weatherMapAppSQK.surge.sh)
+
 Screen Shots
 
 Home Page
